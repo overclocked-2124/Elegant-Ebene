@@ -1,0 +1,15 @@
+.marquee-header{
+    font-family: "Averia Libre", system-ui;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.marquee-text{
+ margin-left: 30px;
+ margin-right: 30px;
+}
+
+.marquee-star{
+    
+}
